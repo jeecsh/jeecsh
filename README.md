@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Mohamed Yousif
+#  Hey, I'm Mohamed Yousif
 
 **Electrical & Electronics Engineering Student | Software Engineer | Robotics & AI Enthusiast**
 
-I'm an **EEE student** passionate about **software development**, **artificial intelligence**, and **robotics**. At **Caretta Robotics**, I work on creating intelligent robotic systems that integrate advanced software and AI to solve real-world challenges.
+I'm an **EEE student** passionate about **software development**, **artificial intelligence**, and **robotics**. Currently Work At **Caretta Robotics**, I work on creating intelligent robotic systems that integrate advanced software and AI to solve real-world challenges.
 
 ### 🛠️ Tech Stack
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
