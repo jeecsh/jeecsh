@@ -44,10 +44,10 @@ I’m an **EEE student** with a passion for **software development**, **artifici
 ---
 
 ### 💡 Areas That Excite Me
+- **Full-Stack Development**: Developing seamless web applications and APIs with **Next.js** and **Node.js**.
 - **AI & Machine Learning**: Deep dives into neural networks, deep learning, and reinforcement learning.
 - **Robotics**: Building machines that navigate autonomously, integrating sensor fusion and robotic manipulation.
 - **Embedded Systems**: Programming microcontrollers, and designing sensor-based systems that respond in real-time.
-- **Full-Stack Development**: Developing seamless web applications and APIs with **Next.js** and **Node.js**.
 
 ---
 
