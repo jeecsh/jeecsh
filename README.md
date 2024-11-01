@@ -51,9 +51,10 @@ I’m an **EEE student** with a passion for **software development**, **artifici
 
 ---
 
+
 ### 📫 Connect with Me
-- **Email**: [mohamedaoyousiff@gmail.com](mailto:mohamedaoyousiff@gmail.com)
-- **LinkedIn**: [Mohamed Yousif](https://www.linkedin.com/in/mohamed-yousif-122450316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaoyousiff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yousif-122450316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
