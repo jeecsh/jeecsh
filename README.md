@@ -1,6 +1,6 @@
 # Mohamed Yousif
 
-> Full-Stack Developer • Robotics Engineer • AI Enthusiast
+> Full-Stack Developer • software Engineer • AI Enthusiast
 
 Currently building intelligent robotic systems at Caretta Robotics, where I combine software expertise with AI to solve real-world challenges.
 
@@ -8,7 +8,7 @@ Currently building intelligent robotic systems at Caretta Robotics, where I comb
 
 ```javascript
 const skills = {
-  languages: ["JavaScript", "TypeScript", "Python", "C++"],
+  languages: ["JavaScript", "TypeScript", "Python", "C"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express", "Django"],
   ai: ["TensorFlow", "Computer Vision", "NLP"],
@@ -25,7 +25,7 @@ const skills = {
 
 ## Current Focus
 
-I'm exploring reinforcement learning techniques to create robots that can adapt to changing environments. My goal is to bridge the gap between advanced AI systems and practical robotics applications.
+I'm exploring reinforcement learning techniques to create systems that can adapt to changing environments. My goal is to bridge the gap between advanced AI systems and practical software applications.
 
 ## Connect
 
