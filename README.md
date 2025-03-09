@@ -21,7 +21,7 @@ const skills = {
 
 - **Autonomous Robot Platform** - Intelligent navigation system using computer vision
 - **AI-Powered Web Application** - Full-stack app with machine learning capabilities
-- **Smart IoT Ecosystem** - Connected devices with cloud integration
+- **full stack web developmaent** - building responsive modren websites with the latest tecknology
 
 ## Current Focus
 
