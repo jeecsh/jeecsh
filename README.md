@@ -20,7 +20,7 @@ const skills = {
 ## Projects
 
 - **Autonomous Robot Platform** - Intelligent navigation system using computer vision
-- **AI-Powered Web Application** - Full-stack app with machine learning capabilities
+- **AI-Powered Web Applications** - Full-stack apps with machine learning capabilities
 - **full stack web developmaent** - building responsive modren websites 
 
 ## Current Focus
