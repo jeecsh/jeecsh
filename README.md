@@ -30,5 +30,5 @@ I'm exploring reinforcement learning techniques to create systems that can adapt
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedyousif)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mohamedyousif)
+
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohamedyousif)
