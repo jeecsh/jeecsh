@@ -10,7 +10,7 @@ Currently building intelligent robotic systems at Caretta Robotics, where I comb
 const skills = {
   languages: ["JavaScript", "TypeScript", "Python", "C"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Django"],
+  backend: ["Node.js", "Express"],
   ai: ["TensorFlow", "Computer Vision", "NLP"],
   robotics: ["ROS", "Sensor Fusion", "Control Systems"],
   tools: ["Git", "Docker", "AWS", "CI/CD"]
